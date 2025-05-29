@@ -1,0 +1,17 @@
+{
+  "name": "qa_lab3_angaldt",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "npx jsdoc ./src -c jsdoc.json -d docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Лабораторная работа 3 по тестированию: ООП + документация",
+  "devDependencies": {
+    "jsdoc": "^4.0.4",
+    "jsdoc-mermaid": "^1.0.0"
+  }
+}
